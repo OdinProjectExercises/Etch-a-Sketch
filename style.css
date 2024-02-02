@@ -1,0 +1,32 @@
+.main-heading{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    padding: 15px;
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin:auto;
+    border-width: 1px;
+    border-color: black;
+}
+
+.pixel-grid{
+    background-color: rgb(202, 200, 200);
+}
+
+.pixel-colored{
+    width: 240px;
+    background-color: black;
+}
